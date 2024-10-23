@@ -1,0 +1,9 @@
+{
+    "Defaults": {
+        "Frame": "EMO2000",
+        "Body": "Europa Clipper",
+        "Center": "",
+        "BPcenter": "Jupiter",
+        "BPframe": "EMO2000"
+    }
+}

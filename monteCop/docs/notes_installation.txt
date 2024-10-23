@@ -1,0 +1,78 @@
+=========================================================================
+Installation notes:
+=========================================================================
+
+NOTE: TO be aded to monteCop_Manual.txt
+
+CopPy/robocoppy (the Copernicus python interface) depends on several python
+package,  some are:
+	- f90nml that can be import once copernicus is installed as:
+	 	>>> from copernicus import f90nml
+		To import f90nml without copernicus activation:
+		f90nml is available on PyPI and can be installed via pip:
+		$ pip install f90nml
+		( package on github https://github.com/marshallward/f90nml)
+		Then, it can be imported as:
+		>>> import f90nml
+
+    -> from nexus need to invoke pip with python, e.g. python -m pip, so it run with a new up-to-date version of python)
+    f90nml:
+    python -m pip install f90nml --user
+    >> ls ~/.local/lib/python3.8/site-packages/f90nml
+    Old version at : ls ~/.local/lib/python2.7/site-paOkages/  (install initially by python2.7)
+
+
+	- fastnml: can be import once copernicus is installed as:
+	 	>>> from copernicus import fastnml
+		To import fastnml without copernicus activation, it can be installed via pip
+		$ pip install fastnml (required f90nml)
+		https://pypi.org/project/fastnml/, Then
+		>>> import fastnml
+
+    -> From Nexus: >> python -m pip install fastnml --user
+       Then, need to add python path:
+        >> setenv PYTHONPATH ${PYTHONPATH}:/home/ricgomez/.local/lib/python3.8/site-packages/
+
+
+-------------------------------------------------------------------------------
+
+For Copernicus 5.2:
+
+ - Need to install dot ( which I did with $brew install graphviz) to be able to run “”Generate Dependancy Graph”
+    -> took  a while to install, bunch of dependancies downloaded/installed. (Graph looks really cool)
+		-> Alternatively, ytou use Pip:
+			>> conda install python-graphviz
+				 (but the graphviz executable sit on a different path from your conda directory, so, you need to fix the paths, etc)
+		-> A better way to do it:
+			>> conda install python-graphviz
+
+-> FYI…an issue has come up for Macs… you may have to make a change to the environment_mac.yml file:
+ 		Add to environment_mac.yml file (fro installations on  Copernicus 5.X):
+		- pyobjc-core==8.1
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+Other bugs:
+
+(On David Garza errors on installation)
+
+From Jacob:
+
+A few issues when installing Copernicus 5.2 on a Mac:
+
+- Copernicus is an x86_64 application, and not native to the new Apple Silicon processors.
+	So, you have to get the x86_64 version of conda if you have an M1 system.
+	Note that it has not been extensively tested on these systems.
+
+- Before running the installer, you have to add the following line to the environment_mac.yml file:
+		- pyobjc-core==8.1
+
+- Plotting segment data doesn’t work unless you upgrade your matplotlib in the conda environment.
+	You can update to 3.2.2 and it will work. So:
+		pip install matplotlib==3.2.2
+
+
+
+
+=========================================================================

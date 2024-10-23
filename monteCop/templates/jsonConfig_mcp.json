@@ -1,0 +1,116 @@
+{
+    "Copernicus": {
+        "GravityBodies":[599,501,502,503,504],
+        "forceFrame"  : "EMO2000",
+        "forceCenter" : "Jupiter",
+        "ideckEpoch" : [],
+        "cpBegin": [],
+        "cpEnd": [],
+        "PlotBodies":   [599,501,502,503,504,1],
+        "ColorsList":[],
+        "maxColorsToUse" : 10,
+        "GraphicCenter" : []
+    },
+    "DefaultData": {
+        "Inputs": [
+            "time",
+            "body",
+            "frame/IAU 2000",
+            "frame/inertial",
+            "ephem/planet/de430",
+            "$euclip_ephem/jup310.boa",
+            "$euclip_lock/euclip_MDLockfile_jup310_v1.boa"
+        ]
+    },
+    "Defaults": {
+        "Frame": "EMO2000",
+        "Body": "Europa Clipper",
+        "Center": "Jupiter",
+        "Mass": "4500.000 *kg",
+        "Isp": "315.0 *sec",
+        "Propagator": "DIVA",
+        "flybyFrame": "EMO2000",
+        "nonFlybyFrame" : "EMO2000",
+        "BPposTol": "0.1 *km",
+        "BPvelTol": "0.1e-3 *km/sec",
+        "BPmassTol": "1 *kg",
+        "BPcenter": "Jupiter",
+        "BPframe": "EMO2000",
+        "Active": "True",
+        "StateParams": [
+            "Cartesian.x",
+            "Cartesian.y",
+            "Cartesian.z",
+            "Cartesian.dx",
+            "Cartesian.dy",
+            "Cartesian.dz"
+        ],
+        "flybyStateParams": [
+            "Conic.vInfinity",
+            "Conic.inboundRA",
+            "Conic.inboundDec",
+            "Conic.bPlaneTheta",
+            "Conic.periapsisRange",
+            "Conic.trueAnomaly"
+        ],
+        "apoStateParams": [
+            "Conic.period",
+            "Conic.periapsisRange",
+            "Conic.inclination",
+            "Conic.longitudeOfNode",
+            "Conic.argumentOfPeriapsis",
+            "Conic.trueAnomaly"
+        ],
+        "DV_CONTROL_PARAMS": [
+            "TIME",
+            "DX",
+            "DY",
+            "DZ"
+        ],
+        "DV_CONTROL_BOUNDS": [
+            [
+                "-20 * day",
+                "-1e-3 * sec"
+            ],
+            " 100 * m / sec",
+            " 100 * m / sec",
+            " 100 * m / sec"
+        ],
+        "DV_CONTROL_PARAMS_NO_TIME": [
+            "DX",
+            "DY",
+            "DZ"
+        ],
+        "DV_DELTA_BOUNDS_NO_TIME": [
+            " 100 * m / sec",
+            " 100 * m / sec",
+            " 100 * m / sec"
+        ],
+        "FLYBY_STATE_CONTROL_PARAMS": [
+            "TIME",
+            "Conic.periapsisRange",
+            "Conic.timeFromPeriapsis",
+            "Conic.bPlaneTheta",
+            "Conic.vInfinity",
+            "Conic.inboundDec",
+            "Conic.inboundRA"
+        ]
+    },
+    "Optimizer": {
+        "Type": "Optimizer",
+        "Name": "SNOPT",
+        "OptionsFile": "snopt_options.txt"
+    },
+    "DIVA": {
+        "Type": "Propagator",
+        "Name": "DIVA",
+        "StateTol": 1e-10,
+        "MassTol": 1e-06,
+        "MinStep": "1e-3 *sec",
+        "MaxStep": "10 *day",
+        "Forces": [
+            "GravityForce",
+            "ImpulseBurnForce"
+        ]
+    }
+}

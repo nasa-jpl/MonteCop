@@ -1,0 +1,501 @@
+
+#-------------------------------------------------------------------
+# Barycenters
+# NAIF ID     NAME
+# ________    ____________________
+0           'SOLAR_SYSTEM_BARYCENTER'
+0           'SSB'
+0           'SOLAR SYSTEM BARYCENTER'
+1           'MERCURY_BARYCENTER'
+1           'MERCURY BARYCENTER'
+2           'VENUS_BARYCENTER'
+2           'VENUS BARYCENTER'
+3           'EARTH_BARYCENTER'
+3           'EMB'
+3           'EARTH MOON BARYCENTER'
+3           'EARTH-MOON BARYCENTER'
+3           'EARTH BARYCENTER'
+4           'MARS_BARYCENTER'
+4           'MARS BARYCENTER'
+5           'JUPITER_BARYCENTER'
+5           'JUPITER BARYCENTER'
+6           'SATURN_BARYCENTER'
+6           'SATURN BARYCENTER'
+7           'URANUS_BARYCENTER'
+7           'URANUS BARYCENTER'
+8           'NEPTUNE_BARYCENTER'
+8           'NEPTUNE BARYCENTER'
+9           'PLUTO_BARYCENTER'
+9           'PLUTO BARYCENTER'
+10          'SUN'
+
+#-------------------------------------------------------------------
+# Planets and Satellites
+# NAIF ID     NAME                    IAU NUMBER
+#________    ____________________    __________
+199         'MERCURY'
+299         'VENUS'
+399         'EARTH'
+301         'MOON'
+499         'MARS'
+401         'PHOBOS'                MI
+402         'DEIMOS'                MII
+599         'JUPITER'
+501         'IO'                    JI
+502         'EUROPA'                JII
+503         'GANYMEDE'              JIII
+504         'CALLISTO'              JIV
+505         'AMALTHEA'              JV
+506         'HIMALIA'               JVI
+507         'ELARA'                 JVII
+508         'PASIPHAE'              JVIII
+509         'SINOPE'                JIX
+510         'LYSITHEA'              JX
+511         'CARME'                 JXI
+512         'ANANKE'                JXII
+513         'LEDA'                  JXIII
+514         'THEBE'                 JXIV
+515         'ADRASTEA'              JXV
+516         'METIS'                 JXVI
+517         'CALLIRRHOE'            JXVII
+518         'THEMISTO'              JXVIII
+519         'MAGACLITE'             JXIX
+520         'TAYGETE'               JXX
+521         'CHALDENE'              JXXI
+522         'HARPALYKE'             JXXII
+523         'KALYKE'                JXXIII
+524         'IOCASTE'               JXXIV
+525         'ERINOME'               JXXV
+526         'ISONOE'                JXXVI
+527         'PRAXIDIKE'             JXXVII
+528         'AUTONOE'               JXXVIII
+529         'THYONE'                JXXIX
+530         'HERMIPPE'              JXXX
+531         'AITNE'                 JXXXI
+532         'EURYDOME'              JXXXII
+533         'EUANTHE'               JXXXIII
+534         'EUPORIE'               JXXXIV
+535         'ORTHOSIE'              JXXXV
+536         'SPONDE'                JXXXVI
+537         'KALE'                  JXXXVII
+538         'PASITHEE'              JXXXVIII
+539         'HEGEMONE'
+540         'MNEME'
+541         'AOEDE'
+542         'THELXINOE'
+543         'ARCHE'
+544         'KALLICHORE'
+545         'HELIKE'
+546         'CARPO'
+547         'EUKELADE'
+548         'CYLLENE'
+549         'KORE'
+550         'HERSE'
+553         'DIA'
+699         'SATURN'
+601         'MIMAS'                 SI
+602         'ENCELADUS'             SII
+603         'TETHYS'                SIII
+604         'DIONE'                 SIV
+605         'RHEA'                  SV
+606         'TITAN'                 SVI
+607         'HYPERION'              SVII
+608         'IAPETUS'               SVIII
+609         'PHOEBE'                SIX
+610         'JANUS'                 SX
+611         'EPIMETHEUS'            SXI
+612         'HELENE'                SXII
+613         'TELESTO'               SXIII
+614         'CALYPSO'               SXIV
+615         'ATLAS'                 SXV
+616         'PROMETHEUS'            SXVI
+617         'PANDORA'               SXVII
+618         'PAN'                   SXVIII
+619         'YMIR'                  SXIX
+620         'PAALIAQ'               SXX
+621         'TARVOS'                SXXI
+622         'IJIRAQ'                SXXII
+623         'SUTTUNGR'              SXXIII
+624         'KIVIUQ'                SXXIV
+625         'MUNDILFARI'            SXXV
+626         'ALBIORIX'              SXXVI
+627         'SKATHI'                SXXVII
+628         'ERRIAPUS'              SXXVIII
+629         'SIARNAQ'               SXXIX
+630         'THRYMR'                SXXX
+631         'NARVI'                 SXXXI
+632         'METHONE'               SXXXII
+633         'PALLENE'               SXXXIII
+634         'POLYDEUCES'            SXXXIV
+635         'DAPHNIS'
+636         'AEGIR'
+637         'BEBHIONN'
+638         'BERGELMIR'
+639         'BESTLA'
+640         'FARBAUTI'
+641         'FENRIR'
+642         'FORNJOT'
+643         'HATI'
+644         'HYRROKKIN'
+645         'KARI'
+646         'LOGE'
+647         'SKOLL'
+648         'SURTUR'
+649         'ANTHE'
+650         'JARNSAXA'
+651         'GREIP'
+652         'TARQEQ'
+653         'AEGAEON'
+799         'URANUS'
+701         'ARIEL'                 UI
+702         'UMBRIEL'               UII
+703         'TITANIA'               UIII
+704         'OBERON'                UIV
+705         'MIRANDA'               UV
+706         'CORDELIA'              UVI
+707         'OPHELIA'               UVII
+708         'BIANCA'                UVIII
+709         'CRESSIDA'              UIX
+710         'DESDEMONA'             UX
+711         'JULIET'                UXI
+712         'PORTIA'                UXII
+713         'ROSALIND'              UXIII
+714         'BELINDA'               UXIV
+715         'PUCK'                  UXV
+716         'CALIBAN'               UXVI
+717         'SYCORAX'               UXVII
+718         'PROSPERO'              UXVIII
+719         'SETEBOS'               UXIX
+720         'STEPHANO'              UXX
+721         'TRINCULO'              UXXI
+722         'FRANCISCO'
+723         'MARGARET'
+724         'FERDINAND'
+725         'PERDITA'
+726         'MAB'
+727         'CUPID'
+899         'NEPTUNE'
+801         'TRITON'                NI
+802         'NEREID'                NII
+803         'NAIAD'                 NIII
+804         'THALASSA'              NIV
+805         'DESPINA'               NV
+806         'GALATEA'               NVI
+807         'LARISSA'               NVII
+808         'PROTEUS'               NVIII
+809         'HALIMEDE'
+810         'PSAMATHE'
+811         'SAO'
+812         'LAOMEDEIA'
+813         'NESO'
+999         'PLUTO'
+901         'CHARON'
+902         'NIX'
+903         'HYDRA'
+904         'KERBEROS'
+905         'STYX'
+
+#-------------------------------------------------------------------
+# Spacecraft
+# NAIF ID     NAME
+#________    ____________________
+-1          'GEOTAIL'
+-3          'MOM'
+-3          'MARS ORBITER MISSION'
+-5          'AKATSUKI'
+-5          'VCO'
+-5          'PLC'
+-5          'PLANET-C'
+-6          'P6'
+-6          'PIONEER-6'
+-7          'P7'
+-7          'PIONEER-7'
+-8          'WIND'
+-12         'VENUS ORBITER'
+-12         'P12'
+-12         'PIONEER 12'
+-12         'LADEE'
+-13         'POLAR'
+-18         'MGN'
+-18         'MAGELLAN'
+-18         'LCROSS'
+-20         'P8'
+-20         'PIONEER-8'
+-21         'SOHO'
+-23         'P10'
+-23         'PIONEER-10'
+-24         'P11'
+-24         'PIONEER-11'
+-25         'LP'
+-25         'LUNAR PROSPECTOR'
+-27         'VK1'
+-27         'VIKING 1 ORBITER'
+-28         'JUPITER ICY MOONS EXPLORER'
+-28         'JUICE'
+-29         'STARDUST'
+-29         'SDU'
+-29         'NEXT'
+-30         'VK2'
+-30         'VIKING 2 ORBITER'
+-30         'DS-1'
+-31         'VG1'
+-31         'VOYAGER 1'
+-32         'VG2'
+-32         'VOYAGER 2'
+-40         'CLEMENTINE'
+-41         'MEX'
+-41         'MARS EXPRESS'
+-44         'BEAGLE2'
+-44         'BEAGLE 2'
+-46         'MS-T5'
+-46         'SAKIGAKE'
+-47         'PLANET-A'
+-47         'SUISEI'
+-47         'GNS'
+-47         'GENESIS'
+-48         'HUBBLE SPACE TELESCOPE'
+-48         'HST'
+-49         'LUCY'
+-53         'MARS PATHFINDER'
+-53         'MPF'
+-53         'MARS ODYSSEY'
+-53         'MARS SURVEYOR 01 ORBITER'
+-54         'ARM'
+-54         'ASTEROID RETRIEVAL MISSION'
+-55         'ULYSSES'
+-58         'VSOP'
+-58         'HALCA'
+-59         'RADIOASTRON'
+-61         'JUNO'
+-62         'EMM'
+-62         'EMIRATES MARS MISSION'
+-64         'ORX'
+-64         'OSIRIS-REX'
+-65         'MCOA'
+-65         'MARCO-A'
+-66         'VEGA 1'
+-66         'MCOB'
+-66         'MARCO-B'
+-67         'VEGA 2'
+-68         'MERCURY MAGNETOSPHERIC ORBITER'
+-68         'MMO'
+-68         'BEPICOLOMBO MMO'
+-69         'PSYC'
+-70         'DEEP IMPACT IMPACTOR SPACECRAFT'
+-74         'MRO'
+-74         'MARS RECON ORBITER'
+-76         'CURIOSITY'
+-76         'MSL'
+-76         'MARS SCIENCE LABORATORY'
+-77         'GLL'
+-77         'GALILEO ORBITER'
+-78         'GIOTTO'
+-79         'SPITZER'
+-79         'SPACE INFRARED TELESCOPE FACILITY'
+-79         'SIRTF'
+-81         'CASSINI ITL'
+-82         'CAS'
+-82         'CASSINI'
+-84         'PHOENIX'
+-85         'LRO'
+-85         'LUNAR RECON ORBITER'
+-85         'LUNAR RECONNAISSANCE ORBITER'
+-86         'CH1'
+-86         'CHANDRAYAAN-1'
+-90         'CASSINI SIMULATION'
+-93         'NEAR EARTH ASTEROID RENDEZVOUS'
+-93         'NEAR'
+-94         'MO'
+-94         'MARS OBSERVER'
+-94         'MGS'
+-94         'MARS GLOBAL SURVEYOR'
+-95         'MGS SIMULATION'
+-96         'SPP'
+-96         'SOLAR PROBE PLUS'
+-97         'TOPEX/POSEIDON'
+-98         'NEW HORIZONS'
+-107        'TROPICAL RAINFALL MEASURING MISSION'
+-107        'TRMM'
+-112        'ICE'
+-116        'MARS POLAR LANDER'
+-116        'MPL'
+-117        'EDL DEMONSTRATOR MODULE'
+-117        'EDM'
+-117        'EXOMARS 2016 EDM'
+-121        'MERCURY PLANETARY ORBITER'
+-121        'MPO'
+-121        'BEPICOLOMBO MPO'
+-127        'MARS CLIMATE ORBITER'
+-127        'MCO'
+-130        'MUSES-C'
+-130        'HAYABUSA'
+-131        'SELENE'
+-131        'KAGUYA'
+-135        'DRTS-W'
+-140        'EPOCH'
+-140        'DIXI'
+-140        'EPOXI'
+-140        'DEEP IMPACT FLYBY SPACECRAFT'
+-142        'TERRA'
+-142        'EOS-AM1'
+-143        'TRACE GAS ORBITER'
+-143        'TGO'
+-143        'EXOMARS 2016 TGO'
+-144        'SOLO'
+-144        'SOLAR ORBITER'
+-146        'LUNAR-A'
+-150        'CASSINI PROBE'
+-150        'HUYGENS PROBE'
+-150        'CASP'
+-151        'AXAF'
+-151        'CHANDRA'
+-152        'CH2'
+-152        'CHANDRAYAAN-2'
+-154        'AQUA'
+-159        'EURC'
+-159        'EUROPA CLIPPER'
+-164        'YOHKOH'
+-164        'SOLAR-A'
+-165        'MAP'
+-166        'IMAGE'
+-170        'JWST'
+-170        'JAMES WEBB SPACE TELESCOPE'
+-177        'GRAIL-A'
+-178        'PLANET-B'
+-178        'NOZOMI'
+-181        'GRAIL-B'
+-183        'CLUSTER 1'
+-185        'CLUSTER 2'
+-188        'MUSES-B'
+-189        'NSYT'
+-189        'INSIGHT'
+-190        'SIM'
+-194        'CLUSTER 3'
+-196        'CLUSTER 4'
+-198        'INTEGRAL'
+-198        'NASA-ISRO SAR MISSION'
+-198        'NISAR'
+-200        'CONTOUR'
+-202        'MAVEN'
+-203        'DAWN'
+-205        'SOIL MOISTURE ACTIVE AND PASSIVE'
+-205        'SMAP'
+-212        'STV51'
+-213        'STV52'
+-214        'STV53'
+-226        'ROSETTA'
+-227        'KEPLER'
+-228        'GLL PROBE'
+-228        'GALILEO PROBE'
+-234        'STEREO AHEAD'
+-235        'STEREO BEHIND'
+-236        'MESSENGER'
+-238        'SMART1'
+-238        'SM1'
+-238        'S1'
+-238        'SMART-1'
+-248        'VEX'
+-248        'VENUS EXPRESS'
+-253        'OPPORTUNITY'
+-253        'MER-1'
+-254        'SPIRIT'
+-254        'MER-2'
+-301        'HELIOS 1'
+-302        'HELIOS 2'
+-362        'RADIATION BELT STORM PROBE A'
+-362        'RBSP_A'
+-363        'RADIATION BELT STORM PROBE B'
+-363        'RBSP_B'
+-500        'RSAT'
+-500        'SELENE Relay Satellite'
+-500        'SELENE Rstar'
+-500        'Rstar'
+-502        'VSAT'
+-502        'SELENE VLBI Radio Satellite'
+-502        'SELENE VRAD Satellite'
+-502        'SELENE Vstar'
+-502        'Vstar'
+-550        'MARS-96'
+-550        'M96'
+-550        'MARS 96'
+-550        'MARS96'
+-750        'SPRINT-A'
+
+#-------------------------------------------------------------------
+# Asteroids
+# NAIF ID     NAME
+#________    ____________________
+9511010     'GASPRA'
+2431010     'IDA'
+2431011     'DACTYL'
+2000001     'CERES'
+2000002     'PALLAS'
+2000004     'VESTA'
+2000016     'PSYCHE'
+2000021     'LUTETIA'
+2000216     'KLEOPATRA'
+2000433     'EROS'
+2000511     'DAVIDA'
+2000253     'MATHILDE'
+2002867     'STEINS'
+2009969     '1992KD'
+2009969     'BRAILLE'
+2004015     'WILSON-HARRINGTON'
+2004179     'TOUTATIS'
+2025143     'ITOKAWA'
+2101955     'BENNU'
+
+#-------------------------------------------------------------------
+# Ground Stations.
+# NAIF ID     NAME
+#________    ____________________
+398989      'NOTO'
+398990      'NEW NORCIA'
+399001      'GOLDSTONE'
+399002      'CANBERRA'
+399003      'MADRID'
+399004      'USUDA'
+399005      'DSS-05'
+399005      'PARKES'
+399012      'DSS-12'
+399013      'DSS-13'
+399014      'DSS-14'
+399015      'DSS-15'
+399016      'DSS-16'
+399017      'DSS-17'
+399023      'DSS-23'
+399024      'DSS-24'
+399025      'DSS-25'
+399026      'DSS-26'
+399027      'DSS-27'
+399028      'DSS-28'
+399033      'DSS-33'
+399034      'DSS-34'
+399042      'DSS-42'
+399043      'DSS-43'
+399045      'DSS-45'
+399046      'DSS-46'
+399049      'DSS-49'
+399053      'DSS-53'
+399054      'DSS-54'
+399055      'DSS-55'
+399061      'DSS-61'
+399063      'DSS-63'
+399064      'DSS-64'
+399065      'DSS-65'
+399066      'DSS-66'
+
+
+# ==============================================================================
+
+# For MonteCop (Monte-Copernicus Interface)
+
+# Spice Bodies ID
+# Obtain full SPICE id list here:
+# https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/FORTRAN/req/naif_ids.html#NAIF%20Object%20ID%20numbers
+
+#
+#   last upfate: August 14 2020.
+#   By Ricardo L. Restrepo
+
+# ==============================================================================
