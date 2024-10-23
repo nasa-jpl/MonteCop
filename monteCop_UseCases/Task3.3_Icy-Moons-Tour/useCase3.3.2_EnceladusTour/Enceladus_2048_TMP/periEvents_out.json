@@ -1,0 +1,79 @@
+[
+    {
+        "time": "21-JUN-2047 00:00:00.0000 ET",
+        "value": " 3.021000000000000e+02 *km",
+        "center": "Enceladus",
+        "frame": "EMO2000",
+        "eventType": "Peri"
+    },
+    {
+        "time": "18-JUL-2047 10:25:55.7775 ET",
+        "value": " 3.021000000000001e+02 *km",
+        "center": "Enceladus",
+        "frame": "EMO2000",
+        "eventType": "Peri"
+    },
+    {
+        "time": "27-JUL-2047 20:50:31.2150 ET",
+        "value": " 3.021000000000000e+02 *km",
+        "center": "Enceladus",
+        "frame": "EMO2000",
+        "eventType": "Peri"
+    },
+    {
+        "time": "17-AUG-2047 14:52:34.6432 ET",
+        "value": " 3.021000000000000e+02 *km",
+        "center": "Enceladus",
+        "frame": "EMO2000",
+        "eventType": "Peri"
+    },
+    {
+        "time": "28-AUG-2047 14:14:46.8797 ET",
+        "value": " 3.021000000000000e+02 *km",
+        "center": "Enceladus",
+        "frame": "EMO2000",
+        "eventType": "Peri"
+    },
+    {
+        "time": "20-SEP-2047 16:59:45.8391 ET",
+        "value": " 4.454644003955524e+02 *km",
+        "center": "Enceladus",
+        "frame": "EMO2000",
+        "eventType": "Peri"
+    },
+    {
+        "time": "03-OCT-2047 02:07:30.4554 ET",
+        "value": " 3.021000000000001e+02 *km",
+        "center": "Enceladus",
+        "frame": "EMO2000",
+        "eventType": "Peri"
+    },
+    {
+        "time": "16-OCT-2047 19:21:51.7905 ET",
+        "value": " 4.365735990285542e+02 *km",
+        "center": "Enceladus",
+        "frame": "EMO2000",
+        "eventType": "Peri"
+    },
+    {
+        "time": "31-OCT-2047 22:51:38.3514 ET",
+        "value": " 3.045219700165841e+02 *km",
+        "center": "Enceladus",
+        "frame": "EMO2000",
+        "eventType": "Peri"
+    },
+    {
+        "time": "18-NOV-2047 22:42:21.5885 ET",
+        "value": " 3.021000000000001e+02 *km",
+        "center": "Enceladus",
+        "frame": "EMO2000",
+        "eventType": "Peri"
+    },
+    {
+        "time": "10-DEC-2047 17:48:35.2510 ET",
+        "value": " 3.021000000000000e+02 *km",
+        "center": "Enceladus",
+        "frame": "EMO2000",
+        "eventType": "Peri"
+    }
+]

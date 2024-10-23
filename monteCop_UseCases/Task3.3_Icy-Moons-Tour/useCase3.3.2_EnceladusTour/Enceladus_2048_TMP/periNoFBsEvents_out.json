@@ -1,0 +1,870 @@
+[
+    {
+        "time": "22-JUN-2047 13:13:27.8340 ET",
+        "value": " 2.360941246747622e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "24-JUN-2047 03:57:54.5601 ET",
+        "value": " 2.360831285299049e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "25-JUN-2047 18:42:42.1557 ET",
+        "value": " 2.360830049272894e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "27-JUN-2047 09:26:40.4137 ET",
+        "value": " 2.360892097804859e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "29-JUN-2047 00:11:27.3768 ET",
+        "value": " 2.360909568704963e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "30-JUN-2047 14:54:19.9150 ET",
+        "value": " 2.360972663838470e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "02-JUL-2047 05:39:34.0046 ET",
+        "value": " 2.360551941828761e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "03-JUL-2047 20:22:39.8236 ET",
+        "value": " 2.360537627634224e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "05-JUL-2047 11:06:42.9274 ET",
+        "value": " 2.360670524400750e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "07-JUL-2047 01:51:29.6348 ET",
+        "value": " 2.360721577195470e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "08-JUL-2047 16:34:37.0853 ET",
+        "value": " 2.360738307933277e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "10-JUL-2047 07:17:59.8974 ET",
+        "value": " 2.360642592231616e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "11-JUL-2047 22:02:12.3894 ET",
+        "value": " 2.360742650342560e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "13-JUL-2047 12:47:19.4608 ET",
+        "value": " 2.360859855257924e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "15-JUL-2047 03:29:57.8447 ET",
+        "value": " 2.360871813861641e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "16-JUL-2047 18:14:37.3024 ET",
+        "value": " 2.360835296718070e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "19-JUL-2047 23:01:12.6437 ET",
+        "value": " 2.357772183859440e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "21-JUL-2047 13:23:43.1826 ET",
+        "value": " 2.357729262159107e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "23-JUL-2047 03:45:58.1351 ET",
+        "value": " 2.359104002061095e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "24-JUL-2047 18:07:06.7718 ET",
+        "value": " 2.359130869537344e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "26-JUL-2047 08:29:29.5790 ET",
+        "value": " 2.359081727247238e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "29-JUL-2047 13:12:45.4186 ET",
+        "value": " 2.360374790010564e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "31-JUL-2047 03:14:14.8575 ET",
+        "value": " 2.360344000932400e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "01-AUG-2047 17:12:58.5952 ET",
+        "value": " 2.360523130558893e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "03-AUG-2047 07:13:52.2108 ET",
+        "value": " 2.360386024426113e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "04-AUG-2047 21:14:34.7253 ET",
+        "value": " 2.360413508702258e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "06-AUG-2047 11:14:18.6513 ET",
+        "value": " 2.360547344726655e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "08-AUG-2047 01:16:09.5708 ET",
+        "value": " 2.360499178232623e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "09-AUG-2047 15:15:34.2762 ET",
+        "value": " 2.360331631456766e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "11-AUG-2047 05:15:36.2255 ET",
+        "value": " 2.360408654225450e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "12-AUG-2047 19:16:12.2356 ET",
+        "value": " 2.360392553516740e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "14-AUG-2047 09:17:24.5249 ET",
+        "value": " 2.360408537460946e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "15-AUG-2047 23:16:47.2638 ET",
+        "value": " 2.360394229017004e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "19-AUG-2047 02:34:03.9493 ET",
+        "value": " 2.356715639256601e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "20-AUG-2047 16:12:21.8472 ET",
+        "value": " 2.356782372055800e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "22-AUG-2047 05:50:43.8693 ET",
+        "value": " 2.356512417810860e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "23-AUG-2047 19:27:42.9079 ET",
+        "value": " 2.356582992693521e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "25-AUG-2047 09:05:43.9646 ET",
+        "value": " 2.356642226108410e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "26-AUG-2047 22:42:58.4541 ET",
+        "value": " 2.356592552172419e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "30-AUG-2047 01:11:51.6780 ET",
+        "value": " 2.352383530184040e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "31-AUG-2047 14:26:17.2769 ET",
+        "value": " 2.352345775412562e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "02-SEP-2047 03:40:41.9576 ET",
+        "value": " 2.352276018467856e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "03-SEP-2047 16:53:44.5386 ET",
+        "value": " 2.352281367225872e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "05-SEP-2047 06:07:59.1427 ET",
+        "value": " 2.352296488036914e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "06-SEP-2047 19:20:49.4832 ET",
+        "value": " 2.352281720412870e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "08-SEP-2047 08:37:09.1155 ET",
+        "value": " 2.354430663447388e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "09-SEP-2047 21:56:37.1341 ET",
+        "value": " 2.365086958465783e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "11-SEP-2047 11:17:09.3575 ET",
+        "value": " 2.364952086768695e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "13-SEP-2047 00:39:13.1980 ET",
+        "value": " 2.364919275197447e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "14-SEP-2047 14:00:56.2455 ET",
+        "value": " 2.365073695031462e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "16-SEP-2047 03:24:30.8854 ET",
+        "value": " 2.365139704552758e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "17-SEP-2047 16:45:37.0988 ET",
+        "value": " 2.364802049076267e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "19-SEP-2047 06:06:31.8495 ET",
+        "value": " 2.364806949439698e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "22-SEP-2047 08:45:57.9774 ET",
+        "value": " 2.359687357981963e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "23-SEP-2047 21:46:08.5940 ET",
+        "value": " 2.359671275772446e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "25-SEP-2047 10:44:44.8129 ET",
+        "value": " 2.360121836856375e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "26-SEP-2047 23:44:48.6404 ET",
+        "value": " 2.360197410419781e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "28-SEP-2047 12:47:57.2236 ET",
+        "value": " 2.371409610548630e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "30-SEP-2047 01:55:54.3446 ET",
+        "value": " 2.371437737008093e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "01-OCT-2047 15:03:32.1543 ET",
+        "value": " 2.371433451142801e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "04-OCT-2047 17:15:13.3535 ET",
+        "value": " 2.364028834834651e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "06-OCT-2047 05:49:20.5060 ET",
+        "value": " 2.363982464741622e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "07-OCT-2047 18:23:08.7972 ET",
+        "value": " 2.363890037397557e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "09-OCT-2047 06:57:23.0248 ET",
+        "value": " 2.363947301976942e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "10-OCT-2047 19:31:13.5705 ET",
+        "value": " 2.366242096811749e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "12-OCT-2047 08:08:08.9861 ET",
+        "value": " 2.365847053098661e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "13-OCT-2047 20:44:00.1870 ET",
+        "value": " 2.365900686652468e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "15-OCT-2047 09:20:18.7575 ET",
+        "value": " 2.365934842553074e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "18-OCT-2047 10:30:20.1756 ET",
+        "value": " 2.359437386472596e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "19-OCT-2047 22:39:35.7875 ET",
+        "value": " 2.358824825348302e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "21-OCT-2047 10:48:07.7069 ET",
+        "value": " 2.358740316656448e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "22-OCT-2047 22:56:43.6801 ET",
+        "value": " 2.358858945944694e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "24-OCT-2047 11:06:19.5534 ET",
+        "value": " 2.358746470528919e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "25-OCT-2047 23:21:39.7935 ET",
+        "value": " 2.375159139319227e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "27-OCT-2047 11:40:23.0255 ET",
+        "value": " 2.374754029544238e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "29-OCT-2047 00:00:00.5898 ET",
+        "value": " 2.374789190518994e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "30-OCT-2047 12:18:49.9917 ET",
+        "value": " 2.374774646675051e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "02-NOV-2047 13:03:12.8012 ET",
+        "value": " 2.366242977951681e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "04-NOV-2047 00:45:55.5452 ET",
+        "value": " 2.365963281599156e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "05-NOV-2047 12:27:50.1063 ET",
+        "value": " 2.365935997496827e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "07-NOV-2047 00:09:18.0840 ET",
+        "value": " 2.366005733795075e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "08-NOV-2047 11:49:19.8439 ET",
+        "value": " 2.365910947860678e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "09-NOV-2047 23:34:05.6494 ET",
+        "value": " 2.366087346889982e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "11-NOV-2047 11:14:02.9089 ET",
+        "value": " 2.366074945222700e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "12-NOV-2047 22:55:36.8377 ET",
+        "value": " 2.366137450750815e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "14-NOV-2047 10:39:05.0466 ET",
+        "value": " 2.366250494974153e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "15-NOV-2047 22:17:37.1577 ET",
+        "value": " 2.366220911113587e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "17-NOV-2047 10:02:38.0974 ET",
+        "value": " 2.366437961505558e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "20-NOV-2047 07:32:06.3321 ET",
+        "value": " 2.361528949593929e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "21-NOV-2047 18:33:46.6899 ET",
+        "value": " 2.361602623684718e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "23-NOV-2047 05:36:55.6612 ET",
+        "value": " 2.361543222792051e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "24-NOV-2047 16:35:44.8368 ET",
+        "value": " 2.361362843536293e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "26-NOV-2047 03:35:32.1270 ET",
+        "value": " 2.361450775802303e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "27-NOV-2047 14:40:01.6002 ET",
+        "value": " 2.361515806852042e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "29-NOV-2047 01:39:51.3041 ET",
+        "value": " 2.361411029243919e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "30-NOV-2047 12:48:42.5885 ET",
+        "value": " 2.379755633082691e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "02-DEC-2047 00:03:58.7842 ET",
+        "value": " 2.379838430017061e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "03-DEC-2047 11:19:06.2073 ET",
+        "value": " 2.379827629797633e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "04-DEC-2047 22:32:03.0859 ET",
+        "value": " 2.379801148741817e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "06-DEC-2047 09:43:06.0555 ET",
+        "value": " 2.379902818671246e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "07-DEC-2047 20:53:55.0392 ET",
+        "value": " 2.379896232402259e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "09-DEC-2047 08:06:27.6303 ET",
+        "value": " 2.379947474763881e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "12-DEC-2047 07:18:53.5882 ET",
+        "value": " 2.366234896401659e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "13-DEC-2047 17:39:45.5487 ET",
+        "value": " 2.366099217801345e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "15-DEC-2047 04:00:37.1691 ET",
+        "value": " 2.366170694133467e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "16-DEC-2047 14:18:48.3803 ET",
+        "value": " 2.366216592213612e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "18-DEC-2047 00:33:21.2041 ET",
+        "value": " 2.366169058905714e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "19-DEC-2047 10:55:30.0264 ET",
+        "value": " 2.365946165184907e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "20-DEC-2047 21:12:35.3925 ET",
+        "value": " 2.365948650430212e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "22-DEC-2047 07:30:28.7384 ET",
+        "value": " 2.365867751264921e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "23-DEC-2047 17:53:10.6202 ET",
+        "value": " 2.365825930148315e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "25-DEC-2047 04:11:12.8065 ET",
+        "value": " 2.365600121042445e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "26-DEC-2047 14:32:39.8759 ET",
+        "value": " 2.365609497664574e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "28-DEC-2047 00:56:02.1316 ET",
+        "value": " 2.374826554514180e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "29-DEC-2047 11:24:19.8650 ET",
+        "value": " 2.374843007257222e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "30-DEC-2047 21:46:25.6996 ET",
+        "value": " 2.374844637242473e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "01-JAN-2048 08:14:31.5571 ET",
+        "value": " 2.375005903062425e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "02-JAN-2048 18:38:12.0571 ET",
+        "value": " 2.374913300099247e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "04-JAN-2048 04:58:33.0272 ET",
+        "value": " 2.374981286248025e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "05-JAN-2048 15:28:50.6782 ET",
+        "value": " 2.375134381183252e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "07-JAN-2048 01:53:13.7976 ET",
+        "value": " 2.375158489000076e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "08-JAN-2048 12:20:33.3076 ET",
+        "value": " 2.375236916761090e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "09-JAN-2048 22:41:32.8274 ET",
+        "value": " 2.375131668820300e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    },
+    {
+        "time": "11-JAN-2048 09:07:37.5644 ET",
+        "value": " 2.375418067931092e+05 *km",
+        "center": "Saturn",
+        "frame": "EMO2000",
+        "eventType": "periNoFB"
+    }
+]
