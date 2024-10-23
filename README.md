@@ -17,7 +17,9 @@ Scripts:
           *csv2ideck.py*:		converts a *.csv file into a Copernicus ideck    
                  
 
-*Note: The user needs to have robocoppy, the Copernicus Python interface, in its python path.  
+*Note: The user needs to have *robocoppy*, the Copernicus Python Interface, in its python path.  
+
+A detailed description of the dynamics considerations utilized during the different trajectory transfer strategies were presented at the 33rd AAS/AIAA Space Flight Mechanics Meeting, Austin, Texas, January 15-19, 2023, through the paper *“Trajectory Reverse Engineering: A General Strategy for Transferring Trajectories Between Flight Mechanics Tools”* R. L.  Restrepo, AAS 23-312. https://www.space-flight.org/docs/2023_winter/2023_winter.html
 
 # Uses Cases
 This folder contains the use cases and supporting data files described in the technical report, NASA/TM-20230006507 NESC-RP-18-01313 “Flight Mechanics Analysis Tools Interoperability and Component Sharing”:
